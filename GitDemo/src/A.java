@@ -15,6 +15,7 @@ public class A
 	{
 		System.out.println("Hello A");
 		A a=new A();
+		a.m2();
 		a.m1();
 	}
 }
